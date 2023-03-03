@@ -1,6 +1,5 @@
-# readme
 
-# 💫 About Me:
+# About Me:
 I’m currently studying  bachelors in Computer Science at the University of Central Punjab. <br><br>🌱 I am exploring the field of Data Science to enhance my skills and knowledge.<br>👯 I am open to opportunities where I can contribute my skills and learn from others..<br>💬 Feel free to ask me anything related to data, and I will make sure to learn from it..<br>📫 How to reach me: check the social links below <br>
 
 
@@ -17,4 +16,3 @@ I’m currently studying  bachelors in Computer Science at the University of Cen
 ---
 [![](https://visitcount.itsvg.in/api?id=aizaihsan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
